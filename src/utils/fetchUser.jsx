@@ -5,4 +5,4 @@ export const fetchUser = () => {
     return user;
 }
 
-export const baseUrl = "http://13.233.150.234:5000/";
+export const baseUrl = "https://pixel-2eyf.onrender.com/";
